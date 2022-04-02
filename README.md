@@ -1,4 +1,4 @@
 # facebook-clone
 
 ## this is a clone of the facebook login page
-*Author : * ** Adarsh Chaurasia**
+*Author* :  __Adarsh Chaurasia__
